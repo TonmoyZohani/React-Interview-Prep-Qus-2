@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+h2,
+h4,
+p {
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+  background-color: aquamarine;
+  margin: 0 auto;
+  height: 220px;
+  width: 200px;
+  text-align: center;
+  color: orangered;
+}
+
+.container p {
+  margin-top: 20px;
+  color: #000;
+}
+
+.btn {
+  width: 20px;
+  height: 20px;
+  background-color: yellowgreen;
+  border-radius: 50%;
+}
